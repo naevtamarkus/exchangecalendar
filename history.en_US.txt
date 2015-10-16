@@ -1,3 +1,6 @@
+Version 3.5.0-beta1:
+- Fixed  Lightning 4.0.2.1 and Thunderbird 38.3
+
 Version 3.3.1:
 - New     New Column for invite mail in message list pane
 - New     Support for Thunderbird Nightly Aurora 38.0+
